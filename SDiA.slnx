@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="SDiA/SDiA.vcxproj" Id="7b6594f9-51a6-4147-a523-5c3642007332" />
+  <Project Path="Практическое 3/Практическое 3.vcxproj" Id="d33bfb1f-ebf0-488c-b746-3d18ee718942" />
 </Solution>

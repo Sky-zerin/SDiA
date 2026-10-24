@@ -131,4 +131,3 @@ void del(int n, int i) {
 		cout << i << " ";
 	del(n, i + 1);
 }*/
-
