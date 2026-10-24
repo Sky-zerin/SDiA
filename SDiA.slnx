@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SDiA/SDiA.vcxproj" Id="7b6594f9-51a6-4147-a523-5c3642007332" />
+</Solution>
